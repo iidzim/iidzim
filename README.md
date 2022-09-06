@@ -18,7 +18,9 @@
 </div>
 
 ### :woman_technologist: About me:
-So perhaps, you've generated some fancy text, and you're content that you can now copy and paste your fancy text in the comments section of funny cat videos, but perhaps you're wondering how it's even possible to change the font of your text? Is it some sort of hack? Are you copying and pasting an actual font
+ * Student at 1337 School [42 Network].
+ * NextJs is new to me, and I'm still learning.
+ * Currently, I am looking for an internship in web development
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,7 +50,6 @@ So perhaps, you've generated some fancy text, and you're content that you can no
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iidzim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :rofl: Random jokes :
-<!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--
