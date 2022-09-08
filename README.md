@@ -19,8 +19,8 @@
 
 ### :woman_technologist: About me:
  * Student at 1337 School [42 Network].
- * NextJs is new to me, and I'm still learning.
- * Currently, I am looking for an internship in web development
+ * I'm currently learning nodeJs and react.
+ * I am looking for an internship as software engineer at the moment.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
