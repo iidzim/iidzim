@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ikram-idzim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:ikramid99@gmail.com">
+  <a href="mailto:idzimikram@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Twitter Badge"/>
   </a>
   <a href="https://twitter.com/Ikramid4">
