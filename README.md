@@ -20,7 +20,7 @@
 ### :woman_technologist: About me:
  * Student at 1337 School [42 Network].
  * I'm currently learning nodeJs and react.
- * I am looking for an internship as software engineer at the moment.
+ * I am looking for an internship as software engineer.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
