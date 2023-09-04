@@ -19,8 +19,6 @@
 
 ### :woman_technologist: About me:
  * Student at 1337 School [42 Network].
- * I'm currently learning react and next.
- * I am looking for an internship as full stack dev.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
